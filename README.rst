@@ -1,6 +1,10 @@
 Algorithms
 ==========
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/meetshah1995/algorithms
+   :target: https://gitter.im/meetshah1995/algorithms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 This is an attempt to build a cohesive module of algorithms in Python.
 
 The purpose of this repo is to be a learning tool for myself and others.
